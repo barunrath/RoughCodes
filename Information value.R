@@ -29,5 +29,5 @@ iv_score<-function(predit,target){
   return(print(paste("The IV_Value is",iv_value)))
 }
 
-iv_score(M_inputDataTrain$ABOVE50K, M_inputDataTrain$HOURSPERWEEK)
+iv_score()
 

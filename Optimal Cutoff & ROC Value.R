@@ -36,4 +36,4 @@ O_cutoff<-function(X,Tr){
   return(optimal_cutOff)
 }
 
-O_cutoff(logit.fit1,My_Adult_IncomeTest)
+O_cutoff()
